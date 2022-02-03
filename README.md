@@ -5,13 +5,13 @@ About Me!
 
 
 - 👀 I’m Antonio Ngbesu a junior web developer and DevOps engineer with a Bsc in Computer Science.
-- 🌱 I’m currently learning Kubernetes and shell...
+- 🌱 I’m currently learning DevOps in depth...
 - 💞️ I’m looking to collaborate on projects and I'm really enthusiastic about learning new technology.
 - 📫 How to reach me: Email: antoniongbesu@gmail.com, LinkedIn: antoniongbesu.
 
 
 
-🎹 Outside the world  of tech too, I love pushing myself to develop new skill ranging from keyboard.
+🎹 Outside the world of tech too, I love pushing myself to develop new skill ranging from keyboard.
 
 ⚽️ I love Sports especially football.
 
