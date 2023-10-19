@@ -4,8 +4,8 @@ About Me!
 
 
 
-- 👀 I’m Antonio Ngbesu a junior web developer and DevOps engineer with a Bsc in Computer Science.
-- 🌱 I’m currently learning DevOps in depth...
+- 👀 I’m Antonio Ngbesu an AI/ML engineer with a Bsc in Computer Science.
+- 🌱 I’m currently learning DeepLearning in depth...
 - 💞️ I’m looking to collaborate on projects and I'm really enthusiastic about learning new technology.
 - 📫 How to reach me: Email: antoniongbesu@gmail.com, LinkedIn: antoniongbesu.
 
