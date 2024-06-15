@@ -4,10 +4,10 @@ About Me!
 
 
 
-- 👀 I’m Antonio Ngbesu an AI/ML engineer with a Bsc in Computer Science.
+- 👀 I’m Antonio Ngbesu a AI engineer with a BSc in Computer Science.
 - 🌱 I’m currently learning DeepLearning in depth...
 - 💞️ I’m looking to collaborate on projects and I'm really enthusiastic about learning new technology.
-- 📫 How to reach me: Email: antoniongbesu@gmail.com, LinkedIn: antoniongbesu.
+- 📫 How to reach me: Email: antoniongbesu@gmail.com, LinkedIn: @antoniongbesu.
 
 
 
