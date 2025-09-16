@@ -1,21 +1,22 @@
-- 👋 Hi there,
+# 👋 Hi there, I'm Antonio Ngbesu!
 
-About Me!
+## About Me
 
+- 👀 I'm an experienced AI engineer with a **Honours degree in Computer Science**
+- 🌱 I'm currently specializing in **AI and Azure Cloud technologies**
+- 💞️ I'm looking to collaborate on innovative projects and I'm passionate about learning new technologies
+- 📫 **How to reach me:** 
+  - 📧 Email: antoniongbesu@gmail.com
+  - 💼 LinkedIn: [@antoniongbesu](https://linkedin.com/in/antoniongbesu)
 
+## Beyond Technology 🌟
 
-- 👀 I’m Antonio Ngbesu an experienced AI engineer with a Hons in Computer Science.
-- 🌱 I’m currently AI Azure Cloud...
-- 💞️ I’m looking to collaborate on projects and I'm really enthusiastic about learning new technology.
-- 📫 How to reach me: Email: antoniongbesu@gmail.com, LinkedIn: @antoniongbesu.
+🎹 Outside the world of tech, I love challenging myself to develop new skills, particularly playing the keyboard.
 
+⚽️ I'm passionate about sports, especially football.
 
+✈️ I enjoy traveling and exploring new places, though it's been a while since my last adventure!
 
-🎹 Outside the world of tech too, I love pushing myself to develop new skill ranging from keyboard.
-
-⚽️ I love Sports especially football.
-
-✈ I love traveling as well, even though it been some time since I last traveled 
 <!---
 Antonio-Ngbesu/Antonio-Ngbesu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
