@@ -4,10 +4,10 @@ About Me!
 
 
 
-- 👀 I’m Antonio Ngbesu an experienced AI engineer with a Hons in Computer Science.
-- 🌱 I’m currently AI Azure Cloud...
+- 👀 I’m Antonio Ngbesu an experienced AI engineer with a Hons degree in Computer Science.
+- 🌱 I’m currently learning DataBricks...
 - 💞️ I’m looking to collaborate on projects and I'm really enthusiastic about learning new technology.
-- 📫 How to reach me: Email: antoniongbesu@gmail.com, LinkedIn: @antoniongbesu.
+- 📫 How to reach me: Email: ngbesu.manzela@gmail.com, LinkedIn: @antoniongbesu.
 
 
 
@@ -16,7 +16,4 @@ About Me!
 ⚽️ I love Sports especially football.
 
 ✈ I love traveling as well, even though it been some time since I last traveled 
-<!---
-Antonio-Ngbesu/Antonio-Ngbesu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
